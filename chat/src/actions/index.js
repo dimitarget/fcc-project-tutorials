@@ -1,5 +1,5 @@
 import * as types from '../constants/ActionTypes'
-
+let t=1
 let nextMessageId = 0
 let nextUserId = 0
 
